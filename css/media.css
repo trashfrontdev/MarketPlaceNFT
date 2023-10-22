@@ -33,8 +33,7 @@
   .header-main-nav {
     position: absolute;
     right: 0;
-    top: -40vh;
-    height: 40vh;
+    top: -55vh;
     border: 2px solid #2b2b2b;
     padding: 70px 30px 30px 30px;
     background-color: var(--Background---Secondary, #3b3b3b);

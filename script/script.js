@@ -86,7 +86,7 @@ console.log(window.innerWidth)
         document.querySelector('.header-main-nav').style.top = "0";
         isBurgerShow = true;
       } else {
-        document.querySelector('.header-main-nav').style.top = "-40vh";
+        document.querySelector('.header-main-nav').style.top = "-55vh";
         isBurgerShow = false;
       }
     })
